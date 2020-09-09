@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=zatkiller" alt="zatkiller" /> 
 </p>
 
-- 🔭 I’m currently working on **a project with Developer Student Club NUS**
+- 🔭 I’m currently working on **a project**
 
 - 🌱 I’m currently learning **about Data Structures and Algorithms**
 
