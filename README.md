@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything about programming**
 
-- 📫 How to reach me **dylan.ghee@u.nus.edu**
+- 📫 Reach me at **dylan.ghee@u.nus.edu**
 
 ### Languages
 <p align="left">
