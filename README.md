@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">I'm a Computer Science Student at National University of Singapore</h3>
+<h1 align="center">Hi 👋, I'm Dylan Ghee</h1>
+<h3 align="center">I'm a Computer Science Student and Teaching Assistant at National University of Singapore</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=zatkiller" alt="zatkiller" /> 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a project**
 
-- 🌱 I’m currently learning **about Data Structures and Algorithms**
+- 🌱 I’m currently learning **about Data Structures and Algorithms and Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://dylanghee.netlify.app/](https://dylanghee.netlify.app/)
 
