@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **about Data Structures and Algorithms and Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://dylanghee.netlify.app/](https://dylanghee.netlify.app/)
-
 - 💬 Ask me about **anything about programming**
 
 - 📫 Reach me at **dylan.ghee@u.nus.edu**
