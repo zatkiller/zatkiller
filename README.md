@@ -38,7 +38,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://devicon.dev/devicon.git/icons/docker/docker-plain-wordmark.svg" alt="git" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
