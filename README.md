@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a project**
 
-- 🌱 I’m currently learning **about Data Structures and Algorithms and Full Stack Web Development**
+- 🌱 I’m currently learning about **Database Systems and Operating Systems**
 
 - 💬 Ask me about **anything about programming**
 
