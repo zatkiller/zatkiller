@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dylan Ghee</h1>
-<h3 align="center">I'm a Computer Science Student at National University of Singapore</h3>
+<h3 align="center">I'm a Computer Science Undergraduate at National University of Singapore</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=zatkiller" alt="zatkiller" /> 
 </p>
 
-- 🔭 I’m currently working on **a project**
+- 💬 I am passionate about **learning new technologies and how to build scalable applications**
 
 - 🌱 I’m currently learning about **Database Systems and Operating Systems**
 
 - 💻 All of my projects are available at [https://www.dylanghee.com/](https://www.dylanghee.com/)
-
-- 💬 Ask me **anything about programming**
 
 - 📫 Reach me at **dylan.ghee@u.nus.edu**
 
@@ -43,5 +41,6 @@
 ### Social Media
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-ghee-326663135" height="30" width="30" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="https://www.dylanghee.com/" height="30" width="30" />
 </p>
 
