@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning about **Database Systems and Operating Systems**
 
-- 💬 Ask me about **anything about programming**
+- 💻 All of my projects are available at [https://www.dylanghee.com/](https://www.dylanghee.com/)
+
+- 💬 Ask me **anything about programming**
 
 - 📫 Reach me at **dylan.ghee@u.nus.edu**
 
@@ -37,14 +39,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatkiller&hide=TeX" alt="zatkiller" />
+
+### Social Media
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-ghee-326663135" height="30" width="30" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zatkiller&show_icons=true" alt="zatkiller" /></p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/dylan-ghee-326663135" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-ghee-326663135" height="30" width="30" />
-  </a>
-</p>
