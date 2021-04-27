@@ -41,7 +41,7 @@
 ### Social Media
 <p align="left">
   <a href="https://linkedin.com/in/dylan-ghee-326663135/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="dylan-ghee-326663135/" height="30" width="40" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-ghee-326663135" height="30" width="30" />
   </a>
 </p>
 
