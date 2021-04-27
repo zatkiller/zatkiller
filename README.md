@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dylan Ghee</h1>
 <h3 align="center">I'm a Computer Science Undergraduate at National University of Singapore</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=zatkiller" alt="zatkiller" /> 
-</p>
-
 - 💬 I am passionate about **learning new technologies and how to build scalable applications**
 
 - 🌱 I’m currently learning about **Database Systems and Operating Systems**
