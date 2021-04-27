@@ -43,5 +43,8 @@
   <a href="https://linkedin.com/in/dylan-ghee-326663135/" target="blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-ghee-326663135" height="30" width="30" />
   </a>
+   <a href="https://www.dylanghee.com/" target="blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="dylan-ghee-326663135" height="30" width="30" />
+  </a>
 </p>
 
