@@ -30,11 +30,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/> 
 </p>
-
-### Social Media
-<p align="left">
-  <a href="https://linkedin.com/in/dylan-ghee-326663135/" target="blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-ghee-326663135" width="40" height="40 />
-  </a>
-</p>
-
