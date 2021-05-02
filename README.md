@@ -3,7 +3,7 @@
 
 - 💬 I am passionate about **learning new technologies and how to build scalable applications**
 
-- 🌱 I’m currently learning about **Database Systems and Operating Systems**
+- 🌱 I’m currently learning about **Computer Networks and Distributed Systems**
 
 - 💻 All of my projects are available at [https://www.dylanghee.com/](https://www.dylanghee.com/)
 
