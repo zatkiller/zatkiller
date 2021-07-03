@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Ghee</h1>
 <h3 align="center">I'm a Computer Science Undergraduate at National University of Singapore</h3>
 
-- 💬 I am passionate about **learning new technologies and learning how to build scalable applications**
-
-- 💻 Check out my projects at [https://www.dylanghee.com/](https://www.dylanghee.com/)
+- 💬 Learn more about me at [https://www.dylanghee.com/](https://www.dylanghee.com/)
 
 - 📫 Reach me at **dylan.ghee@u.nus.edu**
 
